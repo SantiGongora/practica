@@ -1,0 +1,3 @@
+git version (para ver la version del git que tenemos instalado)
+tutorial de git:
+https://bluuweb.github.io/tutorial-github/01-fundamentos/#comandos-basicos
